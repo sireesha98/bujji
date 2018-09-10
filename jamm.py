@@ -1,0 +1,10 @@
+m=raw_input()
+j=raw_input()
+x=len(m)
+y=len(j)
+if(x>y):
+       print(m)
+elif(y>x):
+       print(j)
+else:
+       print(m)
